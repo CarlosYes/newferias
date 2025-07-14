@@ -132,7 +132,7 @@ svg {
 #_x3C_Leaf5_x3E_,
 #_x3C_Leaf8_x3E_,
 #_x3C_Leaf7_x3E_ {
-  position: relative;
+  position: fixed;
   transform-origin: 0, 0;
   -webkit-animation: sway 5s infinite;
           animation: sway 5s infinite;
@@ -202,7 +202,7 @@ svg {
 }
 
 #Clouds_1_ {
-  position: relative;
+  position: fixed;
   transform-origin: 0, 0;
   -webkit-animation: clouds 15s 1;
           animation: clouds 15s 1;
@@ -212,7 +212,7 @@ svg {
 }
 
 #_x3C_Hammock_x5F_Group_x3E_ {
-  position: relative;
+  position: fixed;
   -webkit-animation: hammock 3s infinite;
           animation: hammock 3s infinite;
   transition-timing-function: ease-in-out;
