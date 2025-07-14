@@ -45,6 +45,7 @@ svg {
 	animation-duration: 3s;
 	-webkit-backface-visibility: visible !important;
 	backface-visibility: visible !important;
+	position: fixed;
 }
 
 
