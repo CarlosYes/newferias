@@ -7,14 +7,14 @@ svg {
 	bottom: 5px;
 	left: 28%;
 	bottom: 390px;
-	z-index: 300;
+	z-index: 3;
 }
 .totostanding {
 	position: fixed;
 	bottom: 0;
-	left: 74%;
+	left: 72%;
 	bottom: 0px;
-	z-index: 500;
+	z-index: 5;
 }
 .wiztext {
 	color: #00FFFF;
